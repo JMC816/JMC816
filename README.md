@@ -2,9 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome&fontColor=FFFFFF&fontAlignY=40&desc=Mincheol's%20github&descAlign=70)
 </div>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMC816)](https://github.com/JMC816/github-readme-stats)
-</div>
 <div align="center">
   🔎My Stack🔎
   </br>
@@ -18,4 +15,8 @@
   </br>
   </br>
   <a href="https://www.notion.so/b7a4305a38e445c794033365214cc5c2?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+</div>
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMC816)](https://github.com/JMC816/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMC816)](https://github.com/JMC816/github-readme-stats)
 </div>
