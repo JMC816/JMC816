@@ -1,9 +1,10 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome&fontColor=FFFFFF&fontAlignY=40&desc=Mincheol's%20github&descAlign=70)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMC816)](https://github.com/JMC816/github-readme-stats)
 </div>
 <div align="center">
-  🔎My Skill🔎
+  🔎My Stack🔎
   </br>
   </br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
