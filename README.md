@@ -2,7 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Welcome&fontColor=FFFFFF&fontAlignY=40&desc=Mincheol's%20github&descAlign=70)
 </div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMC816)](https://github.com/JMC816/github-readme-stats)
+</div>
 <div align="center">
   🔎My Stack🔎
   </br>
