@@ -11,10 +11,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </br>
   </br>
-  📖My Study📖
   </br>
   </br>
-  <a href="https://www.notion.so/b7a4305a38e445c794033365214cc5c2?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </div>
 <br>
 <div align="center">
