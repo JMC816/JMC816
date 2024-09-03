@@ -31,6 +31,6 @@
   </br>
 <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMC816)](https://github.com/JMC816/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMC816)](https://github.com/JMC816/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMC816&layout=compact&theme=transparent) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMC816&theme=transparent)](https://github.com/JMC816/github-readme-stats)
 </div>
 
